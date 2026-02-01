@@ -1,9 +1,3 @@
-Here is a professional **`README.md`** template for your GitHub repository.
-
-You can copy this raw text directly into a file named `README.md` on your GitHub. It is structured to impress recruiters by highlighting the **architecture** and **engineering challenges** you solved.
-
----
-
 # 🏙️ Chennai Real Estate Insights Engine
 
 ### An End-to-End Data Pipeline to Identify Undervalued Property Listings
