@@ -138,6 +138,5 @@ streamlit run app.py
 
 ### Author
 
-**Your Name**
 **Navin Vishwa** 
 [LinkedIn Profile](https://www.linkedin.com/in/navinvishwa/)
