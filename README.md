@@ -43,18 +43,6 @@ D -->|Visuals| E[User Insights]
 
 ```
 
-## 📸 Screenshots
-
-### 1. The Interactive Dashboard
-
-*(Upload your dashboard screenshot here)*
-
-### 2. The "Deal Rater" in Action
-
-*(Upload your scatter plot screenshot here)*
-
----
-
 ## 💻 Installation & Usage
 
 **1. Clone the repository**
